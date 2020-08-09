@@ -5,4 +5,4 @@ CSS, HTML for styling (obvious, but still!).
 Breaking Bad API: https://breakingbadapi.com/
 
 
-And that's all. Just a lazy sunday project for revising how top fetch data from an API.
+And that's all. Just a lazy sunday project for revising how to fetch data from an API.
